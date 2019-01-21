@@ -1,0 +1,3 @@
+# README
+
+## asciidoctorがGitHub上でREADMEとして表示できるか実験。
