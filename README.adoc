@@ -1,3 +1,15 @@
-# README
+= README
 
-## asciidoctorがGitHub上でREADMEとして表示できるか実験。
+:toc: top
+:sectnums:
+:toc-title: 目次
+:toclevels: 3
+:chapter-label:
+
+== asciidoctorがGitHub上でREADMEとして表示できるか実験。
+
+=== 結果：できた。
+
+== 一応目次も検証
+
+=== hoge
